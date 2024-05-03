@@ -1,0 +1,30 @@
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.AssemblyReference.cache
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\obj\Debug\testy_projekt_posk.Form1.resources
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\obj\Debug\testy_projekt_posk.Properties.Resources.resources
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.GenerateResource.cache
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.CoreCompileInputs.cache
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.exe.config
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.exe
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.pdb
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.exe
+C:\Users\Seweryn\source\repos\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.pdb
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.exe.config
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.exe
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.pdb
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.AssemblyReference.cache
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\obj\Debug\testy_projekt_posk.Form1.resources
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\obj\Debug\testy_projekt_posk.Properties.Resources.resources
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.GenerateResource.cache
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.CoreCompileInputs.cache
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.exe
+C:\Users\pluto\OneDrive\Pulpit\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.pdb
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.exe.config
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.exe
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\bin\Debug\testy projekt posk.pdb
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.AssemblyReference.cache
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\obj\Debug\testy_projekt_posk.Form1.resources
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\obj\Debug\testy_projekt_posk.Properties.Resources.resources
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.GenerateResource.cache
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.csproj.CoreCompileInputs.cache
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.exe
+C:\studia\sem 5\podstawy organizacji systemów komputerowych\laby\2)testy psychomotoryczne\moje\testy projekt posk\testy projekt posk\obj\Debug\testy projekt posk.pdb
